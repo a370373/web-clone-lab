@@ -1,0 +1,13 @@
+# Development backups
+*.backup
+*.before-capture
+*.pre-zip-fix
+
+# Dependencies
+node_modules/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
