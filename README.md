@@ -1,4 +1,4 @@
-🧩 Web Clone Lab
+## 🧩 Web Clone Lab
 
 Turn webpages into editable frontend projects.
 
@@ -10,7 +10,7 @@ Capture it. Inspect it. Learn from it. Remix it.
 
 ---
 
-✨ Features
+## ✨ Features
 
 - Capture the current webpage's DOM structure
 - Collect linked CSS resources
@@ -27,7 +27,7 @@ Capture it. Inspect it. Learn from it. Remix it.
 
 ---
 
-🧬 How It Works
+## 🧬 How It Works
 
 Web Clone Lab treats a webpage as a collection of interconnected frontend resources.
 
@@ -71,7 +71,7 @@ Instead, Web Clone Lab focuses on reconstructing the frontend layer that can be 
 
 ---
 
-📁 Generated Project
+## 📁 Generated Project
 
 A reconstructed project is organized into a normal local frontend structure.
 
@@ -95,7 +95,7 @@ Resource URLs are mapped to local paths so that the generated project can be ins
 
 ---
 
-🧪 Built for Experimentation
+## 🧪 Built for Experimentation
 
 Web Clone Lab isn't just about copying webpages.
 
@@ -119,7 +119,7 @@ Capture → Inspect → Remix → Create
 
 ---
 
-🧬 Random Remix Website Laboratory
+## 🧬 Random Remix Website Laboratory (Comming Soon 👀)
 
 And then there is the completely unnecessary part.
 
@@ -149,7 +149,7 @@ Nobody knows.
 
 ---
 
-🤡 PAN﻿DORA
+## 🤡 PAN﻿DORA
 
 The final result is exported as a new ZIP project.
 
@@ -168,7 +168,7 @@ A hundred bugs that still run are an experiment.»
 
 ---
 
-🛠️ Project Architecture
+## 🛠️ Project Architecture
 
 Web Clone Lab is built as a browser-side processing pipeline.
 
@@ -206,7 +206,7 @@ The project intentionally keeps the architecture modular so that the capture, an
 
 ---
 
-⚠️ What Web Clone Lab Does Not Do
+## ⚠️ What Web Clone Lab Does Not Do
 
 Web Clone Lab is a frontend reconstruction tool, not a complete website server cloning system.
 
@@ -227,7 +227,7 @@ Therefore, the output should be considered a frontend snapshot/reconstruction, n
 
 ---
 
-🚧 Experimental Project
+## 🚧 Experimental Project
 
 Web Clone Lab is intentionally experimental.
 
@@ -243,7 +243,7 @@ The project is designed to make experimentation with real-world frontend structu
 
 ---
 
-⚖️ Responsible Use
+## ⚖️ Responsible Use
 
 Only capture, reuse, modify, or redistribute webpage code and assets when you have the appropriate rights or permission to do so.
 
@@ -261,13 +261,13 @@ Do not use Web Clone Lab to copy, impersonate, or redistribute websites or asset
 
 ---
 
-📜 License
+## 📜 License
 
 See the project's license file for licensing information.
 
 ---
 
-🧩 Web Clone Lab
+## 🧩 Web Clone Lab
 
 Capture it.
 
@@ -280,7 +280,7 @@ Then make it yours.
 
 ---
 
-📬 Contact the Creator
+## 📬 Contact the Creator
 
 - Instagram: [a370373/XRH](https://instagram.com/a370373)
 
@@ -296,7 +296,7 @@ Then make it yours.
 
 ---
 
-👀 Portfolio & Products
+## 👀 Portfolio & Products
 
 - [WCL - Web Clone Lab](https://github.com/a370373/WCL-Web-Clone-Lab/)
 
@@ -308,7 +308,7 @@ Then make it yours.
 
 ---
 
-🤖 AI Collaboration
+## 🤖 AI Collaboration
 
 "web clone lab" was initiated, designed, and developed by a370373/XRH.
 
