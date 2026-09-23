@@ -31,6 +31,7 @@ Capture it. Inspect it. Learn from it. Remix it.
 
 Web Clone Lab treats a webpage as a collection of interconnected frontend resources.
 
+```
 Webpage
    │
    ▼
@@ -64,6 +65,7 @@ Local Project
    │
    ▼
 📦 ZIP
+```
 
 The goal is not to reproduce a website's server-side application.
 
@@ -77,6 +79,7 @@ A reconstructed project is organized into a normal local frontend structure.
 
 A typical output may look like:
 
+```
 web-clone/
 ├── index.html
 ├── css/
@@ -90,6 +93,7 @@ web-clone/
 │   ├── fonts/
 │   └── ...
 └── clone-manifest.json
+```
 
 Resource URLs are mapped to local paths so that the generated project can be inspected and modified as a standalone frontend project.
 
@@ -135,9 +139,11 @@ Mix multiple sources.
 
 Then press:
 
+```
 ╔══════════════════════╗
 ║    RANDOM REMIX      ║
 ╚══════════════════════╝
+```
 
 You might get something brilliant.
 
@@ -163,8 +169,10 @@ Fix it.
 
 Break it again.
 
+```
 «One bug is a problem.
 A hundred bugs that still run are an experiment.»
+```
 
 ---
 
@@ -172,6 +180,7 @@ A hundred bugs that still run are an experiment.»
 
 Web Clone Lab is built as a browser-side processing pipeline.
 
+```
 Chrome Extension
 │
 ├── Popup
@@ -201,6 +210,7 @@ Chrome Extension
 │
 └── ZIP Engine
     └── Final project packaging
+```
 
 The project intentionally keeps the architecture modular so that the capture, analysis, reconstruction, and remix systems can evolve independently.
 
@@ -276,7 +286,6 @@ Understand it.
 Remix it.
 
 Then make it yours.
-
 
 ---
 
