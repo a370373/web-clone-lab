@@ -282,39 +282,46 @@ Then make it yours.
 
 ## 📬 Contact the Creator
 
-- Instagram: [a370373/XRH](https://instagram.com/a370373)
+- Gmail: b0953166696@gmail.com
 
-- I'm 17 years old 🤔 Please forgive any shortcomings.
+- I'm 17 years old 🤔 Please forgive any shortcomings
 
-- Independent Development & AI Collaboration
+- Independent development & AI collaboration
 
-- Slow Updates & Debugging
+- Slow updates & debugging
 
-- Pure Mobile Termux Development 👀
+- Pure mobile Termux development 👀
 
-- Ongoing Development…
+- Continuously under development…
 
 ---
 
-## 👀 Portfolio & Product Collection 
+## 👀 Portfolio & Product Collection
+
+- [MyDNS](https://github.com/a370373/MyDNS/tree/main)
 
 - [Cyber-Fly-Android-Bridge](https://github.com/a370373/Cyber-Fly-Android-Bridge)
+
 - [My-ADB-Shell](https://github.com/a370373/My-ADB-Shell/tree/main)
+
 - [Cyber-Fly](https://github.com/a370373/Cyber-Fly)
+
 - [MyOS](https://github.com/a370373/MyOS)
+
 - [RWM-1:1 Real World Minecraft](https://github.com/a370373/RWM-Real-World-Minecraft)
+
 - [MyAI-Offline Personal AI Agent System](https://github.com/a370373/MyAI-Offline-Personal-AI-Agent-System-/tree/main)
+
 - [WCL - Web Clone Lab](https://github.com/a370373/web-clone-lab/)
-- Keep increasing...👀 
- 
+
+- Continuously adding more…👀
 
 ---
 
 ## 🤖 AI Collaboration
 
-"web clone lab" was initiated, designed, and developed by a370373/XRH.
+WCL was initiated, designed, and developed by a370373/XRH.
 
 OpenAI ChatGPT was used as an AI collaboration partner during development to assist with technical analysis, code review, debugging, and documentation.
 
-Product direction, design philosophy, and final decisions are the responsibility of the project creator.
-
+Product direction, design philosophy, and final decisions were the responsibility of the project creator.
